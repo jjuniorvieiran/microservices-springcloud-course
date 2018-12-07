@@ -2,9 +2,9 @@
 Below a litle bit of technologios used in this project: 
 
 Important Spring Cloud Modules
-Dynamic Scale Up and Down. Using a combination of
+*Dynamic Scale Up and Down. Using a combination of*
 
-Naming Server (Eureka)
+_Naming Server (Eureka)_
 Ribbon (Client Side Load Balancing)
 Feign (Easier REST Clients)
 Visibility and Monitoring with
